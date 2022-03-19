@@ -1,3 +1,3 @@
 # HYTOmikuji
+* このライブラリは技育祭2022春の勉強会で行われたハンズオンで勉強した内容になります。
 
-A description of this package.
